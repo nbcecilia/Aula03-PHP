@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<!-- laços traz o contador, acumulador de valores -->
-
-<!--  -->
-<!--  -->
+<!-- laço traz o contador, acumulador de valores / pré-requisitos para existir: contador+condição+incremento -->
 
 <head>
     <meta charset="UTF-8">
