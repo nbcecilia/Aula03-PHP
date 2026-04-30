@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<!-- laços traz o contador, acumulador de valores -->
+
+<!--  -->
+<!--  -->
 
 <head>
     <meta charset="UTF-8">
